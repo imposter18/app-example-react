@@ -2,7 +2,7 @@
 
 # React
 
-Пример приложения [React](https://preactjs.com/), которое можно развернуть в **Timeweb Cloud Apps** без настройки.
+Пример приложения [React](https://react.dev/), которое можно развернуть в **Timeweb Cloud Apps** без настройки.
 
 :tada: [Демо](https://timeweb-cloud-app-example-react-65cc.twc1.net)
 
