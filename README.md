@@ -17,7 +17,7 @@
 npm install
 
 # запуск в дев режиме с отслеживанием изменений
-npm run dev
+npm run start
 
 # сборка для продакшн с минификацией
 npm run build
